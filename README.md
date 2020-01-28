@@ -21,6 +21,6 @@ $ py.test
 
 ## RUN Coverage
 
-$ coverage run --source=app -m py.test
-$ coverage report -m 
+$ coverage run --source=app -m py.test  
+$ coverage report -m   
 $ coverage html
