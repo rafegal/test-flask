@@ -12,7 +12,7 @@ $ pip install -r requirements.txt
 
 ## RUN Flask Application
 
-$ export FLASK_APP=app.py
+$ export FLASK_APP=app.py  
 $ flask run
 
 ## RUN Tests
