@@ -1,4 +1,4 @@
-# Introduction to testing
+# Introduction to tests
 
 Application developed in a webinar in the Youtube to *Digital Innovation One®* (https://digitalinnovation.one/). 
 In this webinar was presents a introduction to tests in Flask applications.
